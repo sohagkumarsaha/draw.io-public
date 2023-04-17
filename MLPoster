@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T04:44:43.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" version="21.1.8" etag="wpyBx0vQDVxlrOrWQsgA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T06:13:06.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="LnHEezKRuVefKDsnIJN5" version="21.1.8" type="github">
   <diagram name="Page-1" id="FZKRsGeIuIysSBsz5Zb8">
-    <mxGraphModel>
+    <mxGraphModel dx="479" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XaxIIKfUOgnCyBnmv4kW-1" value="Clean and Dusty Dataset of Solar Panels" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XaxIIKfUOgnCyBnmv4kW-2" value="Data Preprocessing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
