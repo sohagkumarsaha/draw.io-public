@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T21:02:25.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="l3OE73gA2LcZYJqj1-Fs" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T21:12:04.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="63Ankdm8EpJenSwC2vzb" version="21.0.6" type="github">
   <diagram name="Page-1" id="FZKRsGeIuIysSBsz5Zb8">
     <mxGraphModel dx="1377" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
         <mxCell id="Q4WwZtuL2zzmOPzc3LN2-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;Model Evaluation&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="705" y="-580" width="100" height="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="Q4WwZtuL2zzmOPzc3LN2-49" value="&lt;ul&gt;&lt;li&gt;Accuracy&lt;/li&gt;&lt;li&gt;Precision&lt;/li&gt;&lt;li&gt;Recall&lt;/li&gt;&lt;li&gt;Specificity&lt;/li&gt;&lt;li&gt;F1-score&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Q4WwZtuL2zzmOPzc3LN2-49" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Accuracy&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Precision&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Recall&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Specificity&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;F1-score&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="-569.69" width="140" height="76.87" as="geometry" />
         </mxCell>
       </root>
