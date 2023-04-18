@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T00:59:32.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="9_nCxpOzT7PVELVB2yo3" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T01:01:56.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="ZQKTt0WyqG_ciN0r0EoD" version="21.0.6" type="github">
   <diagram name="Page-1" id="voLLsnhNPmz73esi45eW">
     <mxGraphModel dx="1148" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,7 +83,25 @@
           <mxGeometry x="200" y="178.53" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N1d9D9312_zBkxiZto-6-35" value="Classification Output (2):&lt;br&gt;- Clean Images &lt;br&gt;- Dusty Images" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;" vertex="1" parent="1">
-          <mxGeometry y="178.53" width="140" height="50" as="geometry" />
+          <mxGeometry y="178.53" width="140" height="71.47" as="geometry" />
+        </mxCell>
+        <mxCell id="N1d9D9312_zBkxiZto-6-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="70" as="sourcePoint" />
+            <mxPoint x="700" y="67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1d9D9312_zBkxiZto-6-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="250" as="sourcePoint" />
+            <mxPoint x="700" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1d9D9312_zBkxiZto-6-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;CNN-based Feature Extraction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="37.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1d9D9312_zBkxiZto-6-40" value="LSTM-based Classification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
