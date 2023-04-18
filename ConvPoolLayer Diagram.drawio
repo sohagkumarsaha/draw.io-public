@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T00:54:50.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="J1rNDp6T2VvPkqQq6a12" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T00:55:25.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="m0OF0B5H_eH_5tfS3Ub3" version="21.0.6" type="github">
   <diagram name="Page-1" id="voLLsnhNPmz73esi45eW">
     <mxGraphModel dx="1148" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="N1d9D9312_zBkxiZto-6-25" value="Dense (Softmax) Layer&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;7×7×512&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;7×3584" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="200" y="178.53" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N1d9D9312_zBkxiZto-6-35" value="Classification Output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="N1d9D9312_zBkxiZto-6-35" value="Classification Output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry y="178.53" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
