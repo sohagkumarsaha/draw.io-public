@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T00:13:31.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="cvHAAvPrf2e-jdkKyjkA" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T00:27:23.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="D-FgDHXK3peDo7jQugFh" version="21.0.6" type="github">
   <diagram name="Page-1" id="voLLsnhNPmz73esi45eW">
-    <mxGraphModel dx="1148" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="950" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,8 @@
         <mxCell id="N1d9D9312_zBkxiZto-6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N1d9D9312_zBkxiZto-6-3" target="N1d9D9312_zBkxiZto-6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N1d9D9312_zBkxiZto-6-3" value="&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Conv &amp;amp; Pool&amp;nbsp;&lt;br&gt;224×224×3&lt;br&gt;224×224×64&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="120" y="83.02" width="80" height="50" as="geometry" />
+        <mxCell id="N1d9D9312_zBkxiZto-6-3" value="&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;2D Conv &amp;amp; Pool&amp;nbsp;&lt;br&gt;224×224×3&lt;br&gt;224×224×64&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="83.02" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N1d9D9312_zBkxiZto-6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="390" y="220" width="120" height="60" as="geometry" />
@@ -25,23 +25,23 @@
         <mxCell id="N1d9D9312_zBkxiZto-6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1d9D9312_zBkxiZto-6-5" target="N1d9D9312_zBkxiZto-6-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N1d9D9312_zBkxiZto-6-5" value="Conv &amp;amp; Pool&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;112×112×64&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;112×112×128&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="83.02" width="80" height="50" as="geometry" />
+        <mxCell id="N1d9D9312_zBkxiZto-6-5" value="2D Conv &amp;amp; Pool&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;112×112×64&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;112×112×128&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="83.02" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N1d9D9312_zBkxiZto-6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1d9D9312_zBkxiZto-6-6" target="N1d9D9312_zBkxiZto-6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N1d9D9312_zBkxiZto-6-6" value="Conv &amp;amp; Pool&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;56×56×128&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;56×56×256&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="360" y="83.02" width="80" height="50" as="geometry" />
+        <mxCell id="N1d9D9312_zBkxiZto-6-6" value="2D Conv &amp;amp; Pool&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;56×56×128&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;56×56×256&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="360" y="83.02" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N1d9D9312_zBkxiZto-6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1d9D9312_zBkxiZto-6-7" target="N1d9D9312_zBkxiZto-6-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N1d9D9312_zBkxiZto-6-7" value="Conv &amp;amp; Pool&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;28×28×256&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;28×28×512&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="480" y="83.02" width="80" height="50" as="geometry" />
+        <mxCell id="N1d9D9312_zBkxiZto-6-7" value="2D Conv &amp;amp; Pool&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;28×28×256&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;28×28×512&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="83.02" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N1d9D9312_zBkxiZto-6-8" value="Conv &amp;amp; Pool&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;14×14×512&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="600" y="83.02" width="80" height="50" as="geometry" />
+        <mxCell id="N1d9D9312_zBkxiZto-6-8" value="2D Conv &amp;amp; Pool&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;14×14×512&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="83.02" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N1d9D9312_zBkxiZto-6-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Input Images&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1.6653345369377348e-15" y="148.53" width="90" height="30" as="geometry" />
