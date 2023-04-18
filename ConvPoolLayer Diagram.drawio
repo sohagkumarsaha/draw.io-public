@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T00:47:49.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="ixF0pGnzRdHx01X-jAO_" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T00:48:01.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="90okkfIQvfsP593qYzA7" version="21.0.6" type="github">
   <diagram name="Page-1" id="voLLsnhNPmz73esi45eW">
     <mxGraphModel dx="950" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="N1d9D9312_zBkxiZto-6-20" value="Flatten Layer&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;7×7×512&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;7×3584" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="600" y="178.53" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N1d9D9312_zBkxiZto-6-21" value="Flatten Layer&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;7×7×512&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;7×3584" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="N1d9D9312_zBkxiZto-6-21" value="Dropout Layer&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;7×7×512&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;7×3584" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="480" y="178.53" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N1d9D9312_zBkxiZto-6-22" value="Flatten Layer&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;7×7×512&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;7×3584" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
